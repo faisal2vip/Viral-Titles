@@ -18,8 +18,8 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 keywords = [
 
  "Spirituality","Esotericism","Occultism","Hermetic Teachings", 
-"Esoteric Philosophies","Occult Truths","Profound Spirituality","Mysteries","Mysticism", 
-"Alchemy","Yoga","Buddhism","Jesus","Ancient Knowledge","Spiritual Awakening"
+"Esoteric Philosophies","Occult Truths","Profound Spirituality","Mysticism", 
+"Alchemy"
 
 ]
 

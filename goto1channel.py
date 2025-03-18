@@ -19,7 +19,8 @@ keywords = [
 
  "Spirituality","Esotericism","Occultism","Hermetic Teachings", 
 "Esoteric Philosophies","Occult Truths","Profound Spirituality","Mysteries","Mysticism", 
-"Alchemy","Yoga","Buddhism","Jesus",“Ancient Knowledge”,“Spiritual Awakening”
+"Alchemy","Yoga","Buddhism","Jesus",“Ancient Knowledge”,“Spiritual Awakening”,
+
 ]
 
 # Fetch Data Button
